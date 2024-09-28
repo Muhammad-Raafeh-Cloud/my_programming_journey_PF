@@ -1,2 +1,2 @@
 # my_programming_journey_PF
-My _ c++ _ journey-PF is my first repository, showcasing my C++ learning journey. It features code examples and exercises, from basic programming concepts to advanced topics, aimed at improving my problem-solving skills. This repository tracks my progress and may be useful to others learning C++.
+My "my _ c++ _  journey-PF" is a collection of my work and projects as I learn C++. It includes code examples and exercises that show my progress, from basic programming concepts to more advanced topics. The goal is to improve my problem-solving skills while learning C++. This repository will help me track my journey and might be useful to others who are also learning C++.
